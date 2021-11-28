@@ -1,0 +1,19 @@
+.big{
+    width: 500px;
+    height: 500px;
+    border: 10px white solid;
+    background-color: aqua;
+}
+.test1{
+    background-color: tomato;
+    border: solid 10px blue;
+    padding: 0px;
+    margin: 12px;
+}
+
+h1{
+    font-size:xx-large;
+    padding-left: 150px;
+    padding-right: 10px;
+    margin: 0px;
+}
